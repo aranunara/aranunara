@@ -1,10 +1,7 @@
 <p align="center">
-  <img alt="Go" src="https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=00ADD8" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
-  <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-0D1117?style=for-the-badge&logo=googlecloud&logoColor=4285F4" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
-  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-0D1117?style=for-the-badge&logo=terraform&logoColor=7B42BC" />
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF" />
+  <a href="https://skillicons.dev">
+    <img alt="Go, PostgreSQL, Google Cloud, Docker, Terraform, GitHub Actions" src="https://skillicons.dev/icons?i=go,postgres,gcp,docker,terraform,githubactions&perline=6" />
+  </a>
 </p>
 
 ---
