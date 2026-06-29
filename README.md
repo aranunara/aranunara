@@ -1,22 +1,53 @@
-# Backend Engineer
+<p align="center">
+  <img alt="Go" src="https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=00ADD8" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-0D1117?style=for-the-badge&logo=googlecloud&logoColor=4285F4" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-0D1117?style=for-the-badge&logo=terraform&logoColor=7B42BC" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF" />
+</p>
 
-WebバックエンドをGoを中心に開発しています。  
-以下のような継続的な開発・保守運用が可能な基盤作りに関心があります。  
-- 冪等性のある環境構築やCI/CD  
-- 責務や関心の分離を着眼点とした設計
+---
 
-ユーザーファーストであることは前提として、デベロッパーが開発しやすい環境やフローは中長期的にユーザーにも還元されると考えています。  
-UI/UXについて検討することが好きです。
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=aranunara&hide_border=true&background=0D1117&stroke=00ADD8&ring=00ADD8&fire=00ADD8&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00ADD8&sideLabels=8B949E&dates=8B949E&date_format=M%20j%5B%2C%20Y%5D" />
+    <img height="180" alt="Contribution Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aranunara&hide_border=true&background=FFFFFF&stroke=0E7490&ring=0E7490&fire=0E7490&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=0E7490&sideLabels=57606A&dates=57606A&date_format=M%20j%5B%2C%20Y%5D" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aranunara&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=00ADD8&text_color=C9D1D9&icon_color=58A6FF" />
+    <img height="180" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aranunara&layout=compact&hide_border=true&langs_count=8&bg_color=FFFFFF&title_color=0E7490&text_color=1F2328&icon_color=0891B2" />
+  </picture>
+</p>
 
-## Tech
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=aranunara&hide_border=true&area=true&bg_color=0D1117&color=C9D1D9&line=00ADD8&point=58A6FF&title_color=00ADD8&area_color=00ADD8" />
+    <img alt="Contribution Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=aranunara&hide_border=true&area=true&bg_color=FFFFFF&color=1F2328&line=0E7490&point=0891B2&title_color=0E7490&area_color=0E7490" />
+  </picture>
+</p>
 
-Go, Docker, Google Cloud, PostgreSQL, Git
+---
 
-## Work / Repos
-
-[clean-arch-todo-boundary](https://github.com/aranunara/clean-arch-todo-boundary)  
-現在のプログラム設計アーキテクチャ（Go）をTodoアプリを題材として残したメモ。
-詳細は ARCHITECTURE.md に記載。
-
-[deplicate-image-checker](https://github.com/aranunara/deplicate-image-checker)  
-画像重複をEmbedding ベクトル類似度で検出する Slack Bot。
+<p align="center">
+  <a href="https://github.com/aranunara/clean-arch-todo-boundary">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aranunara&repo=clean-arch-todo-boundary&hide_border=true&bg_color=0D1117&title_color=00ADD8&text_color=C9D1D9&icon_color=58A6FF" />
+      <img alt="clean-arch-todo-boundary" src="https://github-readme-stats.vercel.app/api/pin/?username=aranunara&repo=clean-arch-todo-boundary&hide_border=true&bg_color=FFFFFF&title_color=0E7490&text_color=1F2328&icon_color=0891B2" />
+    </picture>
+  </a>
+  <a href="https://github.com/aranunara/deplicate-image-checker">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aranunara&repo=deplicate-image-checker&hide_border=true&bg_color=0D1117&title_color=00ADD8&text_color=C9D1D9&icon_color=58A6FF" />
+      <img alt="deplicate-image-checker" src="https://github-readme-stats.vercel.app/api/pin/?username=aranunara&repo=deplicate-image-checker&hide_border=true&bg_color=FFFFFF&title_color=0E7490&text_color=1F2328&icon_color=0891B2" />
+    </picture>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/aranunara/google-generative-ai-demo">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aranunara&repo=google-generative-ai-demo&hide_border=true&bg_color=0D1117&title_color=00ADD8&text_color=C9D1D9&icon_color=58A6FF" />
+      <img alt="google-generative-ai-demo" src="https://github-readme-stats.vercel.app/api/pin/?username=aranunara&repo=google-generative-ai-demo&hide_border=true&bg_color=FFFFFF&title_color=0E7490&text_color=1F2328&icon_color=0891B2" />
+    </picture>
+  </a>
+</p>
