@@ -26,28 +26,3 @@
     <img alt="Contribution Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=aranunara&hide_border=true&area=true&bg_color=FFFFFF&color=1F2328&line=0E7490&point=0891B2&title_color=0E7490&area_color=0E7490" />
   </picture>
 </p>
-
----
-
-<p align="center">
-  <a href="https://github.com/aranunara/clean-arch-todo-boundary">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aranunara&repo=clean-arch-todo-boundary&hide_border=true&bg_color=0D1117&title_color=00ADD8&text_color=C9D1D9&icon_color=58A6FF" />
-      <img alt="clean-arch-todo-boundary" src="https://github-readme-stats.vercel.app/api/pin/?username=aranunara&repo=clean-arch-todo-boundary&hide_border=true&bg_color=FFFFFF&title_color=0E7490&text_color=1F2328&icon_color=0891B2" />
-    </picture>
-  </a>
-  <a href="https://github.com/aranunara/deplicate-image-checker">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aranunara&repo=deplicate-image-checker&hide_border=true&bg_color=0D1117&title_color=00ADD8&text_color=C9D1D9&icon_color=58A6FF" />
-      <img alt="deplicate-image-checker" src="https://github-readme-stats.vercel.app/api/pin/?username=aranunara&repo=deplicate-image-checker&hide_border=true&bg_color=FFFFFF&title_color=0E7490&text_color=1F2328&icon_color=0891B2" />
-    </picture>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/aranunara/google-generative-ai-demo">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aranunara&repo=google-generative-ai-demo&hide_border=true&bg_color=0D1117&title_color=00ADD8&text_color=C9D1D9&icon_color=58A6FF" />
-      <img alt="google-generative-ai-demo" src="https://github-readme-stats.vercel.app/api/pin/?username=aranunara&repo=google-generative-ai-demo&hide_border=true&bg_color=FFFFFF&title_color=0E7490&text_color=1F2328&icon_color=0891B2" />
-    </picture>
-  </a>
-</p>
